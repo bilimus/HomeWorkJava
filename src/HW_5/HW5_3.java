@@ -6,7 +6,7 @@
 //необходимо вывести минимальное значение массива.
 
 
-package HW5;
+package HW_5;
 
 public class HW5_3 {
     public static void main(String[] args){

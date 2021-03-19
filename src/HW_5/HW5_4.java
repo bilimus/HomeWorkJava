@@ -6,7 +6,7 @@
 
 
 
-package HW5;
+package HW_5;
 
 public class HW5_4 {
     public static void main(String[] Args){

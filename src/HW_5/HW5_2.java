@@ -4,7 +4,7 @@
 //int[] array = {9, 2, 6, 4, 5, 12, 7, 8, 6};
 //необходимо вывести максимальное значение массива.
 
-package HW5;
+package HW_5;
 public class HW5_2 {
     public static void main(String[] args) {
         int[] array = {9, 2, 6, 4, 5, 12, 7, 8, 6};
